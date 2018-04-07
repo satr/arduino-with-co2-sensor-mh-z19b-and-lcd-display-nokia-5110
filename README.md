@@ -32,3 +32,6 @@ Arduino | Display Nokia 5110
   GND   - GND
 ```
 ![](docs/images/arduino-with-co2-sensor-mh-z19b.jpg)
+
+Graph, added within the "mh-z19b-read-from-serial-input-and-with-graph-sketch"
+![](docs/images/arduino-with-co2-sensor-mh-z19b-and-graph.jpg)
