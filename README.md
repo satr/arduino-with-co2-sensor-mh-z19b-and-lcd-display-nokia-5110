@@ -3,7 +3,7 @@ There are two ways to read data from the sensor:
 * from PWM output 
 * from serial port
 
-There is a sketches for each of these ways. The one, which uses serail port - works more stable.
+There is a sketches for each of these ways. The one, which uses the serial port - works more stable.
 
 Connect the sensor, when data are read from the sensor's PWM output:
 ```
