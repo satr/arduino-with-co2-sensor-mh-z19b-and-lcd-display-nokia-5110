@@ -2,6 +2,7 @@
 There are two ways to read data from the sensor:
 * from PWM output 
 * from serial port
+* from V0 analog output (not checked)
 
 There is a sketches for each of these ways. The one, which uses the serial port - works more stable.
 
