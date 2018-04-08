@@ -1,5 +1,5 @@
 # The Arduino with CO2 sensor MH-Z19B (v2) and LCD display from Nokia 5110.
-There are two ways to read data from the sensor:
+There are different ways to read data from the sensor:
 * from PWM output 
 * from serial port
 * from V0 analog output (not checked)
