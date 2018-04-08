@@ -31,7 +31,9 @@ Arduino | Display Nokia 5110
   5V    - VCC
   GND   - GND
 ```
-[Similar project on ESP32](https://github.com/satr/esp32-with-co2-sensor-mh-z19b-and-lcd-display-nokia-5110)
+This project uses [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library) and [Adafruit PCD8544 Nokia 5110 LCD library](https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library).
+
+[Similar project on ESP32](https://github.com/satr/esp32-with-co2-sensor-mh-z19b-and-lcd-display-nokia-5110).
 
 
 Overview
